@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+#submit-key{
+  background-color: blue;
+  color: white;
+}
+
+#question{
+  background-color: gainsboro;
+  color: black;
+  padding: 30px;
+}
+
+#answer{
+  background-color: gainsboro;
+  color: black;
+  padding: 30px;
+}
